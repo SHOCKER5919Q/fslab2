@@ -1,0 +1,7 @@
+{
+  "name": "set04-users",
+  "private": true,
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "dependencies": { "express": "^5.1.0" }
+}

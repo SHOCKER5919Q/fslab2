@@ -1,0 +1,7 @@
+{
+  "name": "set07-update",
+  "private": true,
+  "main": "update.js",
+  "scripts": { "start": "node update.js" },
+  "dependencies": { "mongoose": "^8.0.0" }
+}

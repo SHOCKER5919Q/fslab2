@@ -1,0 +1,5 @@
+The PDF also gives an optional Mongoose variant for the Set-4 CRUD question.
+The primary app.js remains the exact in-memory-array program from the PDF.
+Install with: npm install mongoose
+MongoDB connection: mongodb://127.0.0.1:27017/testdb
+Use the Mongoose route handlers printed on PDF page 9 if the examiner asks for MongoDB.
